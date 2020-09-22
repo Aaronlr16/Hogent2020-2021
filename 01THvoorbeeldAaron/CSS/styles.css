@@ -1,0 +1,11 @@
+body{
+    background-color: cornsilk;
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    width: 850px;
+    margin: 10px auto;
+}
+img{
+    width: 250px;
+    display: block;
+    padding: 10px;
+}
